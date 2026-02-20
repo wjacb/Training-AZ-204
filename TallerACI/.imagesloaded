@@ -1,0 +1,3 @@
+REPOSITORY                          TAG       IMAGE ID       CREATED          SIZE
+aci-tutorial-app                    latest    eebe51ff26e4   23 minutes ago   72.9MB
+wjacb.azurecr.io/aci-tutorial-app   v1        eebe51ff26e4   23 minutes ago   72.9MB

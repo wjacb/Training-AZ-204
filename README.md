@@ -1,28 +1,28 @@
 # Training-AZ-204
 
-Repositorio con los ejercicios y proyectos del curso Microsoft AZ-204 (Desarrollo de soluciones de Microsoft Azure).
+Repository containing exercises and projects for the Microsoft AZ-204 course (Developing Solutions for Microsoft Azure).
 
-Descripción rápida
-- Este repositorio agrupa laboratorios, ejemplos y proyectos de apoyo organizados por módulos (carpetas numeradas).
-- Cada carpeta contiene un proyecto de ejemplo (C#, .NET, Node, Docker, etc.) o materiales prácticos relacionados con el tema del módulo.
+Quick description
+- This repository groups labs, examples, and supporting projects organized by numbered module folders.
+- Each folder contains a sample project (C#, .NET, Node, Docker, etc.) or practical materials related to the module topic.
 
-Contenido destacado
-- **1-CosmosDB**: Ejemplos y código para trabajar con Azure Cosmos DB.
-- **11-Azure Event Grid**: Proyecto de ejemplo para Azure Event Grid.
-- **12-Final test**: Laboratorio final con ejemplos de Storage y datos de prueba.
-- **13-Azure Events Hubs**: Ejemplos de Azure Event Hubs.
-- **14-Azure Queue Storage**: Ejemplos de Azure Queue Storage.
-- **15-Azure Service Bus**: Proyecto `svcbus` con ejemplos de Service Bus.
-- **2-TallerACI**, **3-ACR Container Registry**, **4-ACA Container Apps with CLI**, **5-Test using Docker**: Laboratorios y Dockerfiles para contenedores y despliegue.
-- **6-Authentication MSAL.NET**, **7-Using MSGraph SDK**, **8-Azure Key Vault**, **9-Azure App Conf**, **10-Azure Api Mgmn**: Ejemplos sobre autenticación, Graph, Key Vault, App Configuration y gestión de APIs.
+Highlighted content
+- **1-CosmosDB**: Examples and code for working with Azure Cosmos DB.
+- **11-Azure Event Grid**: Sample project for Azure Event Grid.
+- **12-Final test**: Final lab with Storage examples and test data.
+- **13-Azure Events Hubs**: Examples for Azure Event Hubs.
+- **14-Azure Queue Storage**: Examples for Azure Queue Storage.
+- **15-Azure Service Bus**: `svcbus` project with Service Bus examples.
+- **2-TallerACI**, **3-ACR Container Registry**, **4-ACA Container Apps with CLI**, **5-Test using Docker**: Labs and Dockerfiles for containers and deployment.
+- **6-Authentication MSAL.NET**, **7-Using MSGraph SDK**, **8-Azure Key Vault**, **9-Azure App Conf**, **10-Azure Api Mgmn**: Examples covering authentication, Microsoft Graph, Key Vault, App Configuration, and API management.
 
-Cómo usar
-- Abrir la solución principal `Training-AZ-204.sln` o navegar a la carpeta del módulo que quieras ejecutar.
-- Cada proyecto suele incluir su propio `*.csproj`, `Program.cs` y subcarpetas `bin/` y `obj/` para compilar y ejecutar localmente.
+How to use
+- Open the main solution `Training-AZ-204.sln` or navigate to the module folder you want to run.
+- Each project normally includes its own `*.csproj`, `Program.cs`, and `bin/`/`obj/` folders to build and run locally.
 
-Contribuir
-- Si encuentras errores o mejoras, crea un issue o PR con la carpeta y el cambio propuesto.
+Contributing
+- If you find bugs or improvements, open an issue or submit a PR indicating the folder and proposed change.
 
-Contacto
-- Autor: wjacb
+Contact
+- Author: wjacb
 

@@ -4,24 +4,17 @@ VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CosmosDB", "CosmosDB", "{F6F28583-24BB-0667-38BD-DE392642C8B1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cosmosdb", "CosmosDB\cosmosdb\cosmosdb.csproj", "{7C8A084E-A1F9-B9F1-D448-FC30732CADF0}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7C8A084E-A1F9-B9F1-D448-FC30732CADF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7C8A084E-A1F9-B9F1-D448-FC30732CADF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7C8A084E-A1F9-B9F1-D448-FC30732CADF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7C8A084E-A1F9-B9F1-D448-FC30732CADF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{7C8A084E-A1F9-B9F1-D448-FC30732CADF0} = {F6F28583-24BB-0667-38BD-DE392642C8B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {98E4DDE4-EF8F-43A1-87FE-47186D39C009}
